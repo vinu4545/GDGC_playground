@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/assets/:path*",
-      "destination": "/azymar-playground.vercel.app/assets/:path*"
+      "destination": "/gdgc-playground/assets/:path*"
     },
     {
       "source": "/",
-      "destination": "/azymar-playground.vercel.app/index.html"
+      "destination": "/gdgc-playground/index.html"
     }
   ]
 }
