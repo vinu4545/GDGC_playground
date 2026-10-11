@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/assets/:path*",
+      "destination": "/azymar-playground.vercel.app/assets/:path*"
+    },
+    {
+      "source": "/",
+      "destination": "/azymar-playground.vercel.app/index.html"
+    }
+  ]
+}
